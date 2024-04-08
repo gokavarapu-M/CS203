@@ -18,4 +18,5 @@ python3 gaussian.py
 <br>
 
 **Note:** This is a dynamic simulation outputs may vary for every run of the program.
+<br>
 **Reference:** We use this [_webpage_](<https://medium.com/mti-technology/how-to-generate-gaussian-samples-347c391b7959#:~:text=This%20method%20works%20by%20applying,one%20for%20y%20(U%E2%82%82).>) as reference to learn how to derive inverse CDF function for Gaussian distribution.

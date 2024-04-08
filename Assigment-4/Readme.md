@@ -10,8 +10,8 @@ To run the progrm use the following command
 python3 gaussian.py
 ```
 
-1. Afer executing the command the the program asks for the inputs $a$ and $b$.
-2. Inputs shouls be a valid range i.e. $a<b$.
+1. After executing the command the the program asks for the inputs $a$ and $b$.
+2. Inputs shouls be a valid range i.e. $a < b$.
 3. After taking the inputs it generates a histogram of normalised area $1$ along with the theortical gaussian distribution.
 
 <br>

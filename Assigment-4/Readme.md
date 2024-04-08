@@ -10,9 +10,9 @@ To run the progrm use the following command
 python3 gaussian.py
 ```
 
-1. After executing the command the the program asks for the inputs $a$ and $b$.
-2. Inputs shouls be a valid range i.e. $a < b$.
-3. After taking the inputs it generates a histogram of normalised area $1$ along with the theortical gaussian distribution.
+1. After executing the command the the program asks for the inputs $\mu$, $\sigma$, $a$ and $b$.
+2. Inputs should be a valid  i.e. $\sigma \ge 0$ and $a < b$.
+3. After taking the inputs it generates a histogram of normalised area $1$ along with the theoritical gaussian distribution.
 
 <br>
 <br>
